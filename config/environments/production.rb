@@ -89,4 +89,5 @@ Rails.application.configure do
           :enable_starttls_auto => true,
           :user_name => 'pgss.ruby.on.rails@gmail.com',
           :password => 'my test password'
+        }
 end
